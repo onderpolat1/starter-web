@@ -12,4 +12,6 @@ This repository is for showing how Git and GitHub work
 
 ##sososososo
 
+##change in master branch
+
 Sample website with plenty of files for demos
